@@ -15,10 +15,9 @@ const config = {
   social: {
     linkedin: 'rizkiagungsentosa',
     twitter: 'rizkiagungin',
-    facebook: '',
-    instagram: '',
+    facebook: 'rizkiagungsx',
+    instagram: 'rizkiagung.id',
     stackoverflow: 'rizkiagungid', // format: userid/username
-    skype: '',
     telegram: 'rizkiagungid',
     website: 'https://dev.rasxmedia.com/u/rasx',
     phone: '+6281290053660',
