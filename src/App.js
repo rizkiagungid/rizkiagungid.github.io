@@ -30,18 +30,13 @@ const config = {
   skills: [
     'PHP',
     'Laravel',
+    'Codeigniter',
     'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
     'MySQL',
-    'PostgreSQL',
     'Git',
-    'Docker',
-    'PHPUnit',
     'CSS',
-    'Antd',
-    'Tailwind',
+    'Html',
+    'Pyhton',
   ],
   experiences: [
     {
@@ -59,14 +54,14 @@ const config = {
       companyLink: 'https://example.com',
     },
   ],
-  /* certifications: [
+   certifications: [
     {
       name: 'Lorem ipsum',
       body: 'Lorem ipsum dolor sit amet',
       year: 'March 2022',
       link: 'https://example.com'
     },
-  ], */
+  ], 
   education: [
     {
       institution: 'Institution Name',
