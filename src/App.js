@@ -14,20 +14,15 @@ const config = {
   },
   social: {
     linkedin: 'rizkiagungsentosa',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    twitter: 'rizkiagungin',
     facebook: '',
     instagram: '',
-    dribbble: '',
-    behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
-    stackoverflow: '', // format: userid/username
+    stackoverflow: 'rizkiagungid', // format: userid/username
     skype: '',
-    telegram: '',
-    website: 'https://arifszn.com',
-    phone: '',
-    email: 'arifulalamszn@gmail.com',
+    telegram: 'rizkiagungid',
+    website: 'https://dev.rasxmedia.com/u/rasx',
+    phone: '+6281290053660',
+    email: 'mrrizkiagung@gmail.com',
   },
   resume: {
     fileUrl:
